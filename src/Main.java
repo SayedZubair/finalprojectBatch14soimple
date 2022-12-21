@@ -6,7 +6,12 @@ public class Main {
               xx.sun=2;
               xx.planet=3;
 
+ featureplanet
+              planet1 yy=new planet1();
+              
+
               planet2 cc=new planet2();
               cc.moon=4;
+
     }
 }
