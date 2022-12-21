@@ -5,5 +5,8 @@ public class Main {
       xx.moon=2;
               xx.sun=2;
               xx.planet=3;
+
+              planet2 cc=new planet2();
+              cc.moon=4;
     }
 }
